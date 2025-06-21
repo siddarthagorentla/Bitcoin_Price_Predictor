@@ -1,7 +1,8 @@
 
 import streamlit as st
 import pandas as pd
-from model import predictor
+import predictor
+
 
 st.set_page_config(page_title="📈 Bitcoin Price Predictor", layout="centered")
 st.title("🪙 Bitcoin Price Predictor")
