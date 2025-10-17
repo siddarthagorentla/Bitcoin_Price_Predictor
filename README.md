@@ -76,3 +76,13 @@ MAE – Mean Absolute Error
 📧 Email: siddarthagorentla@gmail.com
 🔗 GitHub: siddarthagorentla
 
+Deployed Images : 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc107997-f118-4945-ac17-2015c711a7f7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6354b80-3ee1-4fee-96d3-f92b3647efe3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ae5c0fb3-07a5-4619-aa4c-5a440fc438ce" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f59b3fc-6bf1-402c-8450-72f9025d4db8" />
+
+
+
+
+
